@@ -1,0 +1,9 @@
+
+This folder includes pythonic code for bounding boxes fitting on PCB's images. The bounding box information is fast acquired by Blender 3D files and stored in txt file (components' file).
+Two methods have been created. A manual method and a registratioin method.
+
+
+1) Manual method exists in folder "App1_ManualFitting"
+
+
+2) Registration method exists in folder "App2_ImgRegFItting"
